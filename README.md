@@ -93,14 +93,24 @@ flutter run
 #     - Budgeting advice
 #     - Expense summaries
 #     - Smart financial tips
-📂 Project Structure
 FinGenie/
 │
-├── lib/                # Flutter code (UI + State management)
-├── functions/          # Firebase Cloud Functions for GPT API
-├── assets/             # App icons, images
-├── pubspec.yaml        # Flutter dependencies
-└── README.md           # Project documentation
+├── lib/
+│   ├── main.dart
+│   └── screens/
+│       ├── login_screen.dart
+│       ├── dashboard_screen.dart
+│       └── chat_screen.dart
+│
+├── functions/
+│   ├── index.js
+│   └── package.json
+│
+├── pubspec.yaml
+├── LICENSE
+├── .gitignore
+└── README.md
+
 🔮 Roadmap
 [ ] Currency Conversion Support
     ➝ Allow users to track expenses in different currencies and auto-convert 

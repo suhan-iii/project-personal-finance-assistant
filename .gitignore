@@ -1,0 +1,17 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Generated
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Generated.xcconfig
+android/local.properties
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# Node.js
+functions/node_modules/

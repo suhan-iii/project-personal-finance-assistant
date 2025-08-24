@@ -61,9 +61,6 @@ firebase deploy --only functions
 # 6️⃣ Run App
 flutter run
 ▶️ Working
-bash
-Copy
-Edit
 1️⃣ User signs up/logs in via Firebase Authentication.  
 
 2️⃣ User adds expenses — expenses are stored in Firestore in real time.  
@@ -75,11 +72,8 @@ Edit
    - Suggestions for budgeting improvements  
    - Personalized financial tips  
 
-5️⃣ Cross-platform sync — same data is accessible on Android and Web.  
+5️⃣ Cross-platform sync — same data is accessible on Android and Web.
 📱 Usage
-bash
-Copy
-Edit
 # 1️⃣ Sign up / Log in securely with Firebase Authentication
 # 2️⃣ Add expenses with categories, amounts, and notes
 # 3️⃣ View dashboard with charts and category-wise spending
@@ -88,9 +82,6 @@ Edit
 #     - Expense summaries
 #     - Smart financial tips
 📂 Project Structure
-bash
-Copy
-Edit
 FinGenie/
 │
 ├── lib/                # Flutter code (UI + State management)
@@ -99,9 +90,6 @@ FinGenie/
 ├── pubspec.yaml        # Flutter dependencies
 └── README.md           # Project documentation
 🔮 Roadmap
-bash
-Copy
-Edit
 [ ] Currency Conversion Support
     ➝ Allow users to track expenses in different currencies and auto-convert 
       them to a preferred currency using live exchange rates.
@@ -124,3 +112,4 @@ Edit
 
 [ ] Push Notifications
     ➝ Send reminders for bill payments, budget limit alerts, and spending trends.
+

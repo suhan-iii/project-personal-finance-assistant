@@ -1,0 +1,20 @@
+name: fin_genie
+description: A personal finance app with AI-powered budgeting insights.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.13.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.8.0
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

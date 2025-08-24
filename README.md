@@ -19,6 +19,18 @@ It helps users **track expenses, visualize spending habits, and receive personal
 - 🔒 **Security** — Firestore security rules and safe API key handling implemented.  
 
 ---
+## 📚 Resources (Components & Tools Used)
+
+- 🖼️ [FlutterFlow (Low-code builder)](https://flutterflow.io)  
+- 📱 [Flutter Framework](https://flutter.dev/docs)  
+- 📦 [Dart Programming Language](https://dart.dev/guides)  
+- 🔥 [Firebase](https://firebase.google.com/docs)  
+- 📂 [Firebase Firestore](https://firebase.google.com/docs/firestore)  
+- 🔑 [Firebase Authentication](https://firebase.google.com/docs/auth)  
+- ⚡ [Firebase Cloud Functions](https://firebase.google.com/docs/functions)  
+- 🤖 [OpenAI GPT API](https://platform.openai.com/docs)  
+- 🛠️ [Node.js](https://nodejs.org/en/docs)  
+- 💻 [Git & GitHub](https://docs.github.com)  
 
 ## 🛠️ Tech Stack
 

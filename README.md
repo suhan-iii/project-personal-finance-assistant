@@ -93,6 +93,8 @@ flutter run
 #     - Budgeting advice
 #     - Expense summaries
 #     - Smart financial tips
+## 📂 Project Structure
+
 FinGenie/
 │
 ├── lib/
@@ -110,6 +112,7 @@ FinGenie/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+
 
 🔮 Roadmap
 [ ] Currency Conversion Support
